@@ -82,3 +82,4 @@ Front-end Back-end Databases Cloud Servers Tools
   <img src="https://img.shields.io/github/stars/JohnHarshith?label=STARS" alt="Total Stars">
 </p>
 
+![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
