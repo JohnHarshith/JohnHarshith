@@ -34,6 +34,8 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=blux)](https://git.io/streak-stats)
 # ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnHarshith&theme=dracula&show_icons=true&include_all_commits=true)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHarshith&layout=compact&theme=github_dark)](https://github.com/JohnHarshith/github-readme-stats)
