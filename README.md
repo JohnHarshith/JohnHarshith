@@ -69,6 +69,11 @@ Front-end Back-end Databases Cloud Servers Tools
 
 <a href="https://www.linkedin.com/in/johnharshith-prince/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+ <a href="https://github.com/peterthehan"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
+ <a href="https://facebook.com/peterthehan"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
+ <a href="https://reddit.com/user/PeterTheHan"><img alt="Reddit" height="32" width="32" src="assets/reddit.svg"></a>
+ <a href="https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA"><img alt="YouTube" height="32" width="32" src="assets/youtube.svg"></a>
+
 ### 📈 GitHub Stats
 <p>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/JohnHarshith?label=FOLLOWERS"> •   
