@@ -69,7 +69,7 @@ Front-end Back-end Databases Cloud Servers Tools
 <a> <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </a>
 
-### Find Me
+### Find Me Here
 
 <a href="https://www.linkedin.com/in/johnharshith-prince/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
