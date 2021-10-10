@@ -97,4 +97,4 @@ Front-end Back-end Databases Cloud Servers Tools
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JohnHarshith" alt="JohnHarshith" /></a> </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=dark)](https://git.io/streak-stats)
-
+[![John's github activity graph](https://activity-graph.herokuapp.com/graph?username=JohnHarshith&theme=xcode&layout=compact)](https://git.io/JohnHarshith)
