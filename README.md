@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img height="100px" src="./assets/logo.png" align="center" alt="GitHub Readme Stats" />
+  <img height="100px" src="logo.png" align="center" alt="GitHub Readme Stats" />
 </p>
 
 <p>
