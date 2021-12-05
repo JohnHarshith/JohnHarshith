@@ -99,4 +99,4 @@ Front-end Back-end Databases Cloud Servers Tools
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=dark)](https://git.io/streak-stats)
 [![John's github activity graph](https://activity-graph.herokuapp.com/graph?username=JohnHarshith&theme=xcode&layout=compact)](https://git.io/JohnHarshith)
 
-![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/johnharshith/datatset)
+![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/johnharshith/dataset)
