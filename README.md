@@ -3,6 +3,10 @@
 <img align="center" alt="GIF" src="https://github.com/JohnHarshith/JohnHarshith/blob/main/code.gif?raw=true" width="500" height="320" />
 </p>
 
+<p align="center">
+  <img height="100px" src="./assets/logo.png" align="center" alt="GitHub Readme Stats" />
+</p>
+
 <p>
 <a href="https://discord.com/invite/waQt3P2">
   <img align="left" alt="John's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
