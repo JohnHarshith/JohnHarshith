@@ -50,68 +50,23 @@
   <img src="https://profile-counter.glitch.me/JohnHarshith/count.svg" />
 </p>
 
-### Find Me Here
-
-<a href="https://www.linkedin.com/in/johnharshith-prince/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
- <a href="https://github.com/peterthehan"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
- <a href="https://facebook.com/peterthehan"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
- <a href="https://reddit.com/user/PeterTheHan"><img alt="Reddit" height="32" width="32" src="assets/reddit.svg"></a>
- <a href="https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA"><img alt="YouTube" height="32" width="32" src="assets/youtube.svg"></a>
-
 ### 📈 GitHub Stats
 <p>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/JohnHarshith?label=FOLLOWERS"> •   
   <img src="https://img.shields.io/github/stars/JohnHarshith?label=STARS" alt="Total Stars">
 </p>
 
-![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/JohnHarshith/github-stats-transparent/output/generated/languages.svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=dark)](https://git.io/streak-stats)
 [![John's github activity graph](https://activity-graph.herokuapp.com/graph?username=JohnHarshith&theme=xcode&layout=compact)](https://git.io/JohnHarshith)
 
-![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/johnharshith/dataset)
 ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith)
-
-### Tools and Technologies I use
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&color=red)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/-Flutter-181717?style=flat-square&logo=flutter)
 
 ### Connect With Me <img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Handshake.gif" height="32px">
 
-| [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ritik-kumar-bba915187/) | [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/itsr_kumar) | [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/iamr_kumar/?hl=en) | [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/github-icon.svg" alt="Github logo" width="34">](https://github.com/iamr-kumar) | [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:ritik.kumar006@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|
-
-
-<strong><h3> My Top Lanaguages </h3></strong>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamr-kumar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<strong><h3> My GitHub Stats </h3></strong>
-<a align="center" href="https://github.com/iamr-kumar">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamr-kumar&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamr-kumar&theme=tokyonight" alt="Ritik Kumar's GitHub Streak" />
-</a>
-
-<h2 align="center"> 
-<b>Web and App Developer, Data Scientist, Competitive Programmer</b>
-</h2>
-
-
-## About Me 🦊
 <a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
 <a href="https://www.codechef.com/users/originalsidd">![Badge](https://cp-logo.vercel.app/codechef/originalsidd)</a>
-
 
 ## Contact Me 💬
 <p align="left">
@@ -121,8 +76,6 @@
   </a>
   <a href="mailto: originalsidd@gmail.com"><img height="30" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <br />
-  <a href="https://dev.to/originalsidd"><img height="30" alt="Reddit" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
   <a href="https://www.reddit.com/user/originalsidd"><img height="30" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
@@ -156,7 +109,6 @@
   <img alt="Express.js" height="28" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/>
   <img alt="Django" height="28" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=green"/>
   <br>
-  <img alt="MySQL" height="28"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Postgres" height="28" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Heroku" height="28" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="MongoDB" height="28" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -178,7 +130,7 @@
 
 <b>Frameworks I'm familiar with:</b>
 
-[![image](https://img.shields.io/badge/OpenCV-PYTHON-yellowgreen)](https://opencv.org/)
+[![image](https://img.shields.io/badge/OPENCV-PYTHON-yellowgreen)](https://opencv.org/)
 [![image](https://img.shields.io/badge/MATPLOTLIB-PYTHON-RED)](https://matplotlib.org/)
 [![image](https://img.shields.io/badge/SCI--KIT%20LEARN-PYTHON-red)](https://scikit-learn.org/)
 [![image](https://img.shields.io/badge/NLTK-PYTHON-blue)](https://www.nltk.org/)
