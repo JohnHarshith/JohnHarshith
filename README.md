@@ -44,18 +44,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=blood-dark)](https://git.io/streak-stats)
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnHarshith&theme=dracula&show_icons=true&include_all_commits=true)
 
-## Contact Me 🤟🏼
-<p align="left">
-  <a href="mailto: johnhreigns@gmail.com"><img height="28" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/johnharshith-prince/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="John's LinkedIn"></a>
-  <!---<a href="https://www.johnharshith.com"><img height="28" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> -->
-  <a href="reddit.com/user/JohnnieLove"><img height="28" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
- <a href="https://www.kaggle.com/johnharshith"><img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=28></a>
-  <a href="https://www.codechef.com/users/johnharshith"><img height="28" alt="CodeChef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/JohnHarshith"><img height="28" alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/JohnHarshith"><img height="28" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-</p>
-
 ## Languages and Tools 📊
 <p>
   <img alt="Python" height="28" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
@@ -90,6 +78,18 @@
   <img alt="Keras" height="28" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pytorch%20-%23FF2812.svg?&style=for-the-badge&logo=Pytorch&logoColor=white" />
   <img alt="Pycharm" height="28" src ="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+</p>
+
+## Contact Me 🤟🏼
+<p align="left">
+  <a href="mailto: johnhreigns@gmail.com"><img height="28" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/johnharshith-prince/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="John's LinkedIn"></a>
+  <!---<a href="https://www.johnharshith.com"><img height="28" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> -->
+  <a href="reddit.com/user/JohnnieLove"><img height="28" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+ <a href="https://www.kaggle.com/johnharshith"><img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=28></a>
+  <a href="https://www.codechef.com/users/johnharshith"><img height="28" alt="CodeChef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/JohnHarshith"><img height="28" alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/JohnHarshith"><img height="28" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
 ##
