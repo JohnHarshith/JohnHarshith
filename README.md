@@ -8,26 +8,36 @@
 
 I am a computer science and tech enthusiast since joining school and i love coding and building products. I am currently pursuing my undergraduate degree at VIT Vellore. I enjoy learning things and being an international student, i have constantly been exposed to diverse groups of people. This has helped me a lot in adapting quickly to changes. I love making use of various opportunities and perfecting my skills in the process. I am also interested in business and bringing out useful products to the people. I believe in love in all its forms and also believe that the true purpose of life is happiness and peace.
 
-## Achievements
+## Clubs and Chapters
 
-<p align="center">
-  <img height="100px" src="Icons/logo.png" align="center" alt="GitHub Readme Stats" />
+**Kaggle Datasets Master**
+
+<a href="https://www.kaggle.com/johnharshith"><img height="28" alt="John's Kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith"/></a>
+
+
+<p>
+<li>Technical Core Member at VinnovateIT</li>
+<li>Core Member at Juvenile Care VIT</li>
 </p>
 
-<p>
-<ul>
-  <li>42nd Datasets master on kaggle</li>
-  <li>Best rank of 31 on kaggle leaderboard</li>
-  <li>Top 50 across the globe in datasets rankings</li>
-  <li>600+ upvotes for the 7 datasets published</li>
-  <li>Top 50 among 55000+ dataset publishers on kaggle</li>
-<ul>
-<p>
-  
- 
-<a href="https://www.kaggle.com/johnharshith" height="28">![JOHN](https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith)</a>
+**Kaggle Datasets Master**
 
+<a href="https://www.kaggle.com/johnharshith"><img height="28" alt="John's Kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith"/></a>
+
+**Find Me Here**
+
+<p>
+  <a href="https://www.linkedin.com/in/johnharshith-prince/"><img align="left" alt="John's LinkedIn" height="28" width="28px" src="Icons/linkedin.svg" /></a>
+  <a href="https://open.spotify.com/user/m91c9rh6e53npwij3606kpo4p"><img align="left" alt="John's Spotify" height="28" width="28px" src="Icons/music.svg" /></a>
+  <a href="https://twitter.com/JohnTheCupid"><img align="left" alt="John's Twitter" height="28" width="28px" src="Icons/birdapp.svg" /></a>
+  <a href="https://discord.gg/DBERmUJq"><img align="left" alt="John's Discord" height="28" width="28px" src="Icons/discord.svg"/></a>
+  <a href="https://leetcode.com/JohnHarshith/" target="blank"><img align="left" src="Icons/leetcode.svg" alt="John" height="28" width="28px" /></a>
+</p>
  
+<br>
+
+
+
 ## GitHub Stats 📈
 
 <p>
@@ -36,15 +46,6 @@ I am a computer science and tech enthusiast since joining school and i love codi
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=blood-dark)](https://git.io/streak-stats)
-
-
-<p>
-  <a href="https://www.linkedin.com/in/johnharshith-prince/"><img align="left" alt="John's LinkedIn" height="28" width="28px" src="Icons/linkedin.svg" /></a>
-  <a href="https://open.spotify.com/user/m91c9rh6e53npwij3606kpo4p"><img align="left" alt="John's Spotify" height="28" width="28px" src="Icons/music.svg" /></a>
-  <a href="https://twitter.com/JohnTheCupid"><img align="left" alt="John's Twitter" height="28" width="28px" src="Icons/birdapp.svg" /></a>
-  <a href="https://discord.gg/DBERmUJq"><img align="left" alt="John's Discord" height="28" width="28px" src="Icons/discord.svg"/></a>
-  <a href="https://leetcode.com/JohnHarshith/" target="blank"><img align="left" src="Icons/leetcode.svg" alt="John" height="28" width="28px" /></a>
-<p>
 
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHarshith&layout=compact&theme=github_dark)](https://github.com/JohnHarshith/github-readme-stats)
 
@@ -74,19 +75,19 @@ I am a computer science and tech enthusiast since joining school and i love codi
    <img alt="VSC" height="28"src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <br>
   <img alt="Bootstrap" height="28" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Postgres" height="28" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MongoDB" height="28" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Heroku" height="28" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Django" height="28" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=green"/>
   <img alt="NodeJS" height="28" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express.js" height="28" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/>
   <img alt="Redux" height="28" src="https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="MongoDB" height="28" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <br>
   <img alt="Numpy" height="28" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="Pandas" height="28" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="Scikit-learn" height="28" src ="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="Tensorflow" height="28"src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img alt="Keras" height="28" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  <img alt="Heroku" height="28" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch%20-%23FF2812.svg?&style=for-the-badge&logo=Pytorch&logoColor=white" />
   <img alt="Pycharm" height="28" src ="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 </p>
 
@@ -95,12 +96,14 @@ I am a computer science and tech enthusiast since joining school and i love codi
   <a href="mailto: johnhreigns@gmail.com"><img height="28" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/johnharshith-prince/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="John's LinkedIn"></a>
   <!---<a href="https://www.johnharshith.com"><img height="28" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> -->
- <a href="reddit.com/user/JohnnieLove"><img height="28" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+  <a href="reddit.com/user/JohnnieLove"><img height="28" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+ <a href="https://www.kaggle.com/johnharshith"><img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=28></a>
   <a href="https://www.codechef.com/users/johnharshith"><img height="28" alt="CodeChef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/JohnHarshith"><img height="28" alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/JohnHarshith"><img height="28" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
+##
 <p align="center"> 
  <b>VISITOR COUNT:</b><br>
   <img src="https://profile-counter.glitch.me/JohnHarshith/count.svg" />
