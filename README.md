@@ -1,10 +1,10 @@
 ### Bonjour, I am John 😁
 <p>
-<img align="center" alt="GIF" src="https://github.com/JohnHarshith/JohnHarshith/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="Icons/code.gif?raw=true" width="500" height="320" />
 </p>
 
 <p align="center">
-  <img height="100px" src="logo.png" align="center" alt="GitHub Readme Stats" />
+  <img height="100px" src="Icons/logo.png" align="center" alt="GitHub Readme Stats" />
 </p>
 
 <p>
@@ -42,7 +42,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-# [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=blux)](https://git.io/streak-stats)
 # ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnHarshith&theme=dracula&show_icons=true&include_all_commits=true)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHarshith&layout=compact&theme=github_dark)](https://github.com/JohnHarshith/github-readme-stats)
 <p align="center"> 
@@ -50,44 +49,18 @@
   <img src="https://profile-counter.glitch.me/JohnHarshith/count.svg" />
 </p>
 
+![](https://raw.githubusercontent.com/JohnHarshith/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/JohnHarshith/github-stats-transparent/output/generated/languages.svg)
+
 ### 📈 GitHub Stats
 <p>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/JohnHarshith?label=FOLLOWERS"> •   
   <img src="https://img.shields.io/github/stars/JohnHarshith?label=STARS" alt="Total Stars">
 </p>
 
-![](https://raw.githubusercontent.com/JohnHarshith/github-stats-transparent/output/generated/languages.svg)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=dark)](https://git.io/streak-stats)
-[![John's github activity graph](https://activity-graph.herokuapp.com/graph?username=JohnHarshith&theme=xcode&layout=compact)](https://git.io/JohnHarshith)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=blood-dark)](https://git.io/streak-stats)
 
 ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith)
-
-### Connect With Me <img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Handshake.gif" height="20px">
-
-<a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
-<a href="https://www.codechef.com/users/originalsidd">![Badge](https://cp-logo.vercel.app/codechef/originalsidd)</a>
-
-## Contact Me 💬
-<p align="left">
-  <a href="https://www.linkedin.com/in/siddharth-pal-a7a5ab202"><img height="29" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="originalsidd">
-  </a>
-  <a href="https://www.originalsidd.com"><img height="30" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="mailto: originalsidd@gmail.com"><img height="30" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  </a>
-  <a href="https://www.reddit.com/user/originalsidd"><img height="30" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
-  <br />
-  <a href="https://codeforces.com/profile/originalsidd"><img height="30" alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/originalsidd"><img height="30" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/originalsidd"><img height="30" alt="CodeChef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/>
-  </a>
-</p>
-<br>
 
 ## Languages & Tools 🛠️
 <p>
@@ -127,17 +100,31 @@
 </p>
 <br>
 
-
-<b>Frameworks I'm familiar with:</b>
-
-[![image](https://img.shields.io/badge/OPENCV-PYTHON-yellowgreen)](https://opencv.org/)
-[![image](https://img.shields.io/badge/MATPLOTLIB-PYTHON-RED)](https://matplotlib.org/)
-[![image](https://img.shields.io/badge/SCI--KIT%20LEARN-PYTHON-red)](https://scikit-learn.org/)
-[![image](https://img.shields.io/badge/NLTK-PYTHON-blue)](https://www.nltk.org/)
-[![image](https://img.shields.io/badge/NUMPY-PYTHON-yellow)](https://numpy.org/)
-
-<a href="https://leetcode.com/JohnHarshith/" target="blank"><img align="left" src="icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://leetcode.com/JohnHarshith/" target="blank"><img align="left" src="Icons/leetcode.svg" alt="John" width="22px" /></a>
 <br />
 
-![](https://raw.githubusercontent.com/JohnHarshith/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/JohnHarshith/github-stats-transparent/output/generated/languages.svg)
+### Connect With Me <img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Handshake.gif" height="20px">
+
+<a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
+<a href="https://www.codechef.com/users/originalsidd">![Badge](https://cp-logo.vercel.app/codechef/originalsidd)</a>
+
+## Contact Me 💬
+<p align="left">
+  <a href="https://www.linkedin.com/in/siddharth-pal-a7a5ab202"><img height="29" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="originalsidd">
+  </a>
+  <a href="https://www.originalsidd.com"><img height="30" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="mailto: originalsidd@gmail.com"><img height="30" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  </a>
+  <a href="https://www.reddit.com/user/originalsidd"><img height="30" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  <br />
+  <a href="https://codeforces.com/profile/originalsidd"><img height="30" alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/originalsidd"><img height="30" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/originalsidd"><img height="30" alt="CodeChef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/>
+  </a>
+</p>
+<br>
