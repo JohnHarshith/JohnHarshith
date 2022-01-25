@@ -63,7 +63,7 @@
 
 ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith)
 
-### Connect With Me <img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Handshake.gif" height="32px">
+### Connect With Me <img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Handshake.gif" height="20px">
 
 <a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
 <a href="https://www.codechef.com/users/originalsidd">![Badge](https://cp-logo.vercel.app/codechef/originalsidd)</a>
@@ -136,14 +136,7 @@
 [![image](https://img.shields.io/badge/NLTK-PYTHON-blue)](https://www.nltk.org/)
 [![image](https://img.shields.io/badge/NUMPY-PYTHON-yellow)](https://numpy.org/)
 
-<a href="https://twitter.com/xtenzq" target="blank"><img align="left" src="icons/twitter.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://linkedin.com/in/xtenzq" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
-  <a href="https://t.me/nrusetski">
-  <img align="left" alt="Nikita's Telegram" width="22px" src="icons/telegram.svg" />
-</a>
-<a href="https://fb.com/nrusetski" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://instagram.com/nrusetski" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://www.leetcode.com/xtenzq" target="blank"><img align="left" src="icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://leetcode.com/JohnHarshith/" target="blank"><img align="left" src="icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
 <br />
 
 ![](https://raw.githubusercontent.com/JohnHarshith/github-stats-transparent/output/generated/overview.svg)
