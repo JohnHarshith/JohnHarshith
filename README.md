@@ -1,48 +1,37 @@
-# Bonjour! John Harshith Here 😁
+## Bonjour! John Harshith Here 😁
 <p>
 <img align="center" alt="GIF" src="Icons/code.gif?raw=true" width="400" height="400"/>
 <img align="center" alt="GIF" src="Icons/JohnHarshith.png?raw=true" width="400" height="400"/>
 </p>
 
 ## About Me 💌
-
 <p>
   <a href="https://www.linkedin.com/in/johnharshith-prince/"><img align="left" alt="John's LinkedIn" height="28" width="28px" src="Icons/linkedin.svg" /></a>
   <a href="https://open.spotify.com/user/m91c9rh6e53npwij3606kpo4p"><img align="left" alt="John's Spotify" height="28" width="28px" src="Icons/music.svg" /></a>
   <a href="https://twitter.com/JohnTheCupid"><img align="left" alt="John's Twitter" height="28" width="28px" src="Icons/birdapp.svg" /></a>
   <a href="https://discord.gg/DBERmUJq"><img align="left" alt="John's Discord" height="28" width="28px" src="Icons/discord.svg"/></a>
   <a href="https://leetcode.com/JohnHarshith/" target="blank"><img align="left" src="Icons/leetcode.svg" alt="John" height="28" width="28px" /></a>
-
 <br> 
+  <li>I am a Machine Learning and Deep Learning Enthusiast.</li>
+  <li>Skilled at Web development and App development as well.</li>
+  <li>Some other areas of interest are Natural Language Processing, Computer Vision and Image Processing.</li>
+  <li>I am currently pursuing my undergraduate degree in CSE (Specialization in Data Science) at VIT Vellore.</li>
+  <li>I enjoy learning new things and being an international student, I've been exposed to diverse groups of people.</li>
+  <li>I am also interested in business and leading people, and in that way bringing out innovative and useful products.</li>
+  <li>I believe in love in all its forms and also believe that the true purpose of life is happiness and peace.</li>
+</p>
 
-I am a computer science and tech enthusiast since joining school and I love coding and building products. I am currently pursuing my undergraduate degree at VIT Vellore. I enjoy learning things and being an international student, I have constantly been exposed to diverse groups of people. This has helped me a lot in adapting quickly to changes. I love making use of various opportunities and perfecting my skills in the process. I am also interested in business and bringing out useful products to the people. I believe in love in all its forms and also believe that the true purpose of life is happiness and peace.</p>
-
-## Clubs and Chapters
-
+## Clubs and Chapters ⭐️
+<p>
+  
 **Kaggle Datasets Master**
 
 <a href="https://www.kaggle.com/johnharshith"><img height="28" alt="John's Kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith"/></a>
-
-<p>
-<li>Technical Core Member at VinnovateIT</li>
-<li>Core Member at Juvenile Care VIT</li>
+  <li>Technical Core Member at VinnovateIT</li>
+  <li>Core Member at Juvenile Care VIT</li>
+  <li>Data Science Intern at GlobalCert Singapore</li>
+  <li>Deep Learning Intern at AINE AI</li>
 </p>
-
-## GitHub Stats 📈
-
-<p>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/JohnHarshith?label=FOLLOWERS"> •   
-  <img src="https://img.shields.io/github/stars/JohnHarshith?label=STARS" alt="Total Stars">
-</p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=blood-dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHarshith&layout=compact&theme=github_dark)](https://github.com/JohnHarshith/github-readme-stats)
-
-![](https://raw.githubusercontent.com/JohnHarshith/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/JohnHarshith/github-stats-transparent/output/generated/languages.svg)
-
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnHarshith&theme=dracula&show_icons=true&include_all_commits=true)
 
 ## Languages and Tools 📊
 <p>
@@ -59,9 +48,8 @@ I am a computer science and tech enthusiast since joining school and I love codi
   <img alt="React-Native" height="28" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="Dart" height="28" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img alt="Flutter" height="28" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/> </a>
+  <img alt="Flutter" height="28" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></a> 
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/></a>
    <img alt="VSC" height="28"src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <br>
   <img alt="Bootstrap" height="28" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -81,6 +69,17 @@ I am a computer science and tech enthusiast since joining school and I love codi
   <img alt="Pycharm" height="28" src ="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 </p>
 
+## GitHub Stats 📈
+<p>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/JohnHarshith?label=FOLLOWERS"> 
+  <img src="https://img.shields.io/github/stars/JohnHarshith?label=STARS" alt="Total Stars">
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHarshith&layout=compact&theme=discord_old_blurple)](https://github.com/JohnHarshith/github-readme-stats)
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=blood-dark)](https://git.io/streak-stats)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnHarshith&theme=dracula&show_icons=true&include_all_commits=true)
+
 ## Contact Me 🤟🏼
 <p align="left">
   <a href="mailto: johnhreigns@gmail.com"><img height="28" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -95,6 +94,7 @@ I am a computer science and tech enthusiast since joining school and I love codi
 
 ##
 <p align="center"> 
- <b>VISITOR COUNT:</b><br>
-  <img src="https://profile-counter.glitch.me/JohnHarshith/count.svg" />
+ <b>VISITOR COUNT</b><br>
+  <img src="https://profile-counter.glitch.me/JohnHarshith/count.svg"/>
 </p>
+<!-- John's GitHub Readme (Spreading love <3) -->
