@@ -1,4 +1,4 @@
-### Bonjour, I am John 😁
+# Bonjour! John Harshith Here 😁
 <p>
 <img align="center" alt="GIF" src="Icons/code.gif?raw=true" width="480" height="480" />
 <img align="center" alt="GIF" src="Icons/JohnHarshith.png?raw=true" width="480" height="480" />
@@ -98,8 +98,6 @@
 <a href="https://leetcode.com/JohnHarshith/" target="blank"><img align="left" src="Icons/leetcode.svg" alt="John" width="22px" /></a>
 <br />
 
-### Connect With Me <img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Handshake.gif" height="20px">
-
 <a href="https://codeforces.com/profile/JohnHarshith" height="20px">![Badge](https://cp-logo.vercel.app/codeforces/JohnHarshith)</a>
 <a href="https://www.codechef.com/users/johnharshith">![Badge](https://cp-logo.vercel.app/codechef/johnharshith)</a>
 ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith)
@@ -124,6 +122,11 @@
   </a>
 </p>
 <br>
+
+<p align="center">
+  <img height="100px" src="Icons/logo.png" align="center" alt="GitHub Readme Stats" />
+</p>
+
 
 <p align="center"> 
  <b>VISITOR COUNT:</b><br>
