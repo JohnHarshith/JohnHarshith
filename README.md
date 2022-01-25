@@ -1,7 +1,7 @@
 ## Bonjour! John Harshith Here 😁
 <p>
-<img align="center" alt="GIF" src="Icons/code.gif?raw=true" width="400" height="400"/>
-<img align="center" alt="GIF" src="Icons/JohnHarshith.png?raw=true" width="400" height="400"/>
+<img align="center" alt="GIF" src="Icons/code.gif?raw=true" width="375" height="375"/>
+<img align="center" alt="GIF" src="Icons/JohnHarshith.png?raw=true" width="375" height="375"/>
 </p>
 
 ## About Me 💌
