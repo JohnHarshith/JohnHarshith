@@ -1,7 +1,7 @@
 ### Bonjour, I am John 😁
 <p>
-<img align="center" alt="GIF" src="Icons/code.gif?raw=true" width="500" height="320" />
-  <img align="center" alt="GIF" src="Icons/JohnHarshith.png?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="Icons/code.gif?raw=true" width="480" height="480" />
+<img align="center" alt="GIF" src="Icons/JohnHarshith.png?raw=true" width="480" height="480" />
 </p>
 
 <p align="center">
