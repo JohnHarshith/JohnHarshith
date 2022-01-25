@@ -1,6 +1,7 @@
 ### Bonjour, I am John 😁
 <p>
 <img align="center" alt="GIF" src="Icons/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="Icons/JohnHarshith.png?raw=true" width="500" height="320" />
 </p>
 
 <p align="center">
@@ -44,10 +45,6 @@
 <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 # ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnHarshith&theme=dracula&show_icons=true&include_all_commits=true)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHarshith&layout=compact&theme=github_dark)](https://github.com/JohnHarshith/github-readme-stats)
-<p align="center"> 
- <b>VISITOR COUNT:</b><br>
-  <img src="https://profile-counter.glitch.me/JohnHarshith/count.svg" />
-</p>
 
 ![](https://raw.githubusercontent.com/JohnHarshith/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/JohnHarshith/github-stats-transparent/output/generated/languages.svg)
@@ -59,8 +56,6 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=blood-dark)](https://git.io/streak-stats)
-
-![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith)
 
 ## Languages & Tools 🛠️
 <p>
@@ -105,8 +100,9 @@
 
 ### Connect With Me <img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Handshake.gif" height="20px">
 
-<a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
-<a href="https://www.codechef.com/users/originalsidd">![Badge](https://cp-logo.vercel.app/codechef/originalsidd)</a>
+<a href="https://codeforces.com/profile/JohnHarshith" height="20px">![Badge](https://cp-logo.vercel.app/codeforces/JohnHarshith)</a>
+<a href="https://www.codechef.com/users/johnharshith">![Badge](https://cp-logo.vercel.app/codechef/johnharshith)</a>
+![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith)
 
 ## Contact Me 💬
 <p align="left">
@@ -128,3 +124,8 @@
   </a>
 </p>
 <br>
+
+<p align="center"> 
+ <b>VISITOR COUNT:</b><br>
+  <img src="https://profile-counter.glitch.me/JohnHarshith/count.svg" />
+</p>
