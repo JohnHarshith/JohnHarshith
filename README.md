@@ -49,29 +49,6 @@
  <b>VISITOR COUNT:</b><br>
   <img src="https://profile-counter.glitch.me/JohnHarshith/count.svg" />
 </p>
-### Languages and Tools:
-Front-end Back-end Databases Cloud Servers Tools
-
-<a> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</a>
-<a> <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-</a>
-<a> <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</a>
-<a> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</a>
-<a> <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</a>
-<a> <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-</a>
-<a> <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-</a>
-<a> <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-</a>
-<a> <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-</a>
-<a> <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</a>
 
 ### Find Me Here
 
@@ -90,39 +67,11 @@ Front-end Back-end Databases Cloud Servers Tools
 
 ![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<h3 align="left">GitHub Trophies 🏆</h3>
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JohnHarshith" alt="JohnHarshith" /></a> </p>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=dark)](https://git.io/streak-stats)
 [![John's github activity graph](https://activity-graph.herokuapp.com/graph?username=JohnHarshith&theme=xcode&layout=compact)](https://git.io/JohnHarshith)
 
 ![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/johnharshith/dataset)
 ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith)
-
-<img align="center" src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/header.png?raw=true" width="800px">
-
-## <img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/wave.gif" width="29px"> **Hello There**
-<p>
-    I am a Computer Science sophomore at Vellore Institute of Technology, Vellore.
-    I am a Software Engineer, an enthusiastic writer, a voracious reader and an avid learner.
-    I am continoulsy exploring new technologies that is driving the world,
-    and currently improving my hands at the world of web!
-</p>
-
-### What I am upto
-
-- 🔭 I’m currently working on some Flutter and MER(N)N stack projects.
-- 🌱 I’m currently learning Flutter and Next.js along with DSA.
-- 👯 I’m looking to collaborate on some great open source projects!
-- 🤔 I’m looking for help with Flutter and Placement preparations
-- ⚡ Fun fact: I frequently visit the Outlands in Apex Legends
 
 ### Tools and Technologies I use
 
@@ -163,14 +112,6 @@ Front-end Back-end Databases Cloud Servers Tools
 <a href="https://www.codeforces.com/profile/originalsidd">![Badge](https://cp-logo.vercel.app/codeforces/originalsidd)</a>
 <a href="https://www.codechef.com/users/originalsidd">![Badge](https://cp-logo.vercel.app/codechef/originalsidd)</a>
 
-- 🎓 Pursuing B.Tech in Computer Science from **Vellore Institute of Technology, Vellore**
-- 💻 Working as **App Developer at PROTAL** (July 2021 - Present)
-- 🌱 Nowadays working on **Full Stack Development**
-- 🌴 Currently learning **AI/ML and AWS Cloud Computing**
-- 👯‍♂️ Open to collaborate on **Open Source Projects**
-- ⚡ All of my projects are available at **<a id="raw-url" href="https://www.originalsidd.com">https://www.originalsidd.com</a>**
-
-<br>
 
 ## Contact Me 💬
 <p align="left">
@@ -234,36 +175,7 @@ Front-end Back-end Databases Cloud Servers Tools
 </p>
 <br>
 
-## GitHub Stats 📈
-<p>
-  <img src="https://gpvc.arturio.dev/originalsidd" alt="profile views"> •  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/originalsidd?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/originalsidd?label=Stars" alt="Total Stars">
-</p>
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=originalsidd&show_icons=true&show_owner=true&count_private=true&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a" alt="Sidd's GitHub Stats" />
 
-<br>
-
-## Language Stats 📊
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=originalsidd&show_icons=true&locale=en&layout=compact&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a&langs_count=9&card_width=320" alt="originalsidd" />
-
-<br>
-
-## Streak 🔥
-<img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=originalsidd&title_color=bdddff&text_color=05bbf7&icon_color=ef8539&bg_color=010f1a&langs_count=9&hide_border=true&card_width=240"/>
-
-<br>
-
-## Hobbies 🎲
-👨‍💻 Competitive Programming \
-🏕️ Travelling \
-🎵 Music Production \
-🔭 Stargazing \
-🏓 Table Tennis \
-🎮 Speedrunning Competitive Games \
-🎬 Video and Photo Editing
-
-<br/>
 <b>Frameworks I'm familiar with:</b>
 
 [![image](https://img.shields.io/badge/OpenCV-PYTHON-yellowgreen)](https://opencv.org/)
