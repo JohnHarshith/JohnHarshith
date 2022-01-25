@@ -262,3 +262,12 @@ Front-end Back-end Databases Cloud Servers Tools
 🏓 Table Tennis \
 🎮 Speedrunning Competitive Games \
 🎬 Video and Photo Editing
+
+<br/>
+<b>Frameworks I'm familiar with:</b>
+
+[![image](https://img.shields.io/badge/OpenCV-PYTHON-yellowgreen)](https://opencv.org/)
+[![image](https://img.shields.io/badge/MATPLOTLIB-PYTHON-RED)](https://matplotlib.org/)
+[![image](https://img.shields.io/badge/SCI--KIT%20LEARN-PYTHON-red)](https://scikit-learn.org/)
+[![image](https://img.shields.io/badge/NLTK-PYTHON-blue)](https://www.nltk.org/)
+[![image](https://img.shields.io/badge/NUMPY-PYTHON-yellow)](https://numpy.org/)
