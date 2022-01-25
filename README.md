@@ -1,30 +1,10 @@
 # Bonjour! John Harshith Here 😁
 <p>
-<img align="center" alt="GIF" src="Icons/code.gif?raw=true" width="400" height="400" />
-<img align="center" alt="GIF" src="Icons/JohnHarshith.png?raw=true" width="400" height="400" />
+<img align="center" alt="GIF" src="Icons/code.gif?raw=true" width="400" height="400"/>
+<img align="center" alt="GIF" src="Icons/JohnHarshith.png?raw=true" width="400" height="400"/>
 </p>
 
 ## About Me 💌
-
-I am a computer science and tech enthusiast since joining school and i love coding and building products. I am currently pursuing my undergraduate degree at VIT Vellore. I enjoy learning things and being an international student, i have constantly been exposed to diverse groups of people. This has helped me a lot in adapting quickly to changes. I love making use of various opportunities and perfecting my skills in the process. I am also interested in business and bringing out useful products to the people. I believe in love in all its forms and also believe that the true purpose of life is happiness and peace.
-
-## Clubs and Chapters
-
-**Kaggle Datasets Master**
-
-<a href="https://www.kaggle.com/johnharshith"><img height="28" alt="John's Kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith"/></a>
-
-
-<p>
-<li>Technical Core Member at VinnovateIT</li>
-<li>Core Member at Juvenile Care VIT</li>
-</p>
-
-**Kaggle Datasets Master**
-
-<a href="https://www.kaggle.com/johnharshith"><img height="28" alt="John's Kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith"/></a>
-
-**Find Me Here**
 
 <p>
   <a href="https://www.linkedin.com/in/johnharshith-prince/"><img align="left" alt="John's LinkedIn" height="28" width="28px" src="Icons/linkedin.svg" /></a>
@@ -32,11 +12,21 @@ I am a computer science and tech enthusiast since joining school and i love codi
   <a href="https://twitter.com/JohnTheCupid"><img align="left" alt="John's Twitter" height="28" width="28px" src="Icons/birdapp.svg" /></a>
   <a href="https://discord.gg/DBERmUJq"><img align="left" alt="John's Discord" height="28" width="28px" src="Icons/discord.svg"/></a>
   <a href="https://leetcode.com/JohnHarshith/" target="blank"><img align="left" src="Icons/leetcode.svg" alt="John" height="28" width="28px" /></a>
+
+<br> 
+
+I am a computer science and tech enthusiast since joining school and I love coding and building products. I am currently pursuing my undergraduate degree at VIT Vellore. I enjoy learning things and being an international student, I have constantly been exposed to diverse groups of people. This has helped me a lot in adapting quickly to changes. I love making use of various opportunities and perfecting my skills in the process. I am also interested in business and bringing out useful products to the people. I believe in love in all its forms and also believe that the true purpose of life is happiness and peace.</p>
+
+## Clubs and Chapters
+
+**Kaggle Datasets Master**
+
+<a href="https://www.kaggle.com/johnharshith"><img height="28" alt="John's Kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith"/></a>
+
+<p>
+<li>Technical Core Member at VinnovateIT</li>
+<li>Core Member at Juvenile Care VIT</li>
 </p>
- 
-<br>
-
-
 
 ## GitHub Stats 📈
 
@@ -47,7 +37,7 @@ I am a computer science and tech enthusiast since joining school and i love codi
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnHarshith&theme=blood-dark)](https://git.io/streak-stats)
 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHarshith&layout=compact&theme=github_dark)](https://github.com/JohnHarshith/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHarshith&layout=compact&theme=github_dark)](https://github.com/JohnHarshith/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/JohnHarshith/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/JohnHarshith/github-stats-transparent/output/generated/languages.svg)
