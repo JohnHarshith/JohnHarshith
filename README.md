@@ -28,7 +28,7 @@
 
 <a href="https://www.kaggle.com/johnharshith"><img height="28" alt="John's Kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith"/></a>
   <li>Technical Core Member at VinnovateIT</li>
-  <li>Core Member at Juvenile Care VIT</li>
+  <li>Editorial and Management Core Member at Ayuda NGO VIT</li>
   <li>Data Science Intern at GlobalCert Singapore</li>
   <li>Deep Learning Intern at AINE AI</li>
 </p>
