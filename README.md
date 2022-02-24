@@ -89,7 +89,7 @@
  <a href="https://www.kaggle.com/johnharshith"><img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=28></a>
   <a href="https://www.codechef.com/users/johnharshith"><img height="28" alt="CodeChef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/JohnHarshith"><img height="28" alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/JohnHarshith"><img height="28" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<!--   <a href="https://www.hackerrank.com/JohnHarshith"><img height="28" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> -->
 </p>
 
 ##
