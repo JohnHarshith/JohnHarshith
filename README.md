@@ -30,7 +30,7 @@
   <li>Technical Core Member at VinnovateIT (A Cognizant Lab)</li>
   <li>Technical Core Member at Mozilla Firefox Club VIT</li>
   <li>Editorial and Management Core Member at Ayuda NGO VIT</li>
-  <li>Ex-Core Club Member at Toastmasters International VIT</li>
+  <li>Former Core Club Member at Toastmasters International VIT</li>
   <li>Student Volunteer at Youth Red Cross VIT</li>
   <li>Data Science Intern at GlobalCert Singapore</li>
   <li>Deep Learning Intern at AINE AI</li>
