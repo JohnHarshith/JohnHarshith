@@ -1,7 +1,7 @@
 ## Bonjour! John Harshith Here 😁
 <div class="container">
 <img alt="GIF" src="Icons/code.gif?raw=true" width="380" height="380"/>
-<img alt="GIF" src="Icons/JohnHarshith.png?raw=true" width="380" height="380"/>
+<!-- <img alt="GIF" src="Icons/JohnHarshith.png?raw=true" width="380" height="380"/> -->
 </div>
 
 ## About Me 💌
