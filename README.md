@@ -26,7 +26,7 @@
   
 **Kaggle Datasets Master**
 
-<a href="https://www.kaggle.com/johnharshith"><img height="28" alt="John's Kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith"/></a>
+<!-- <a href="https://www.kaggle.com/johnharshith"><img height="28" alt="John's Kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/johnharshith"/></a> -->
   <li>Technical Core Member at VinnovateIT (A Cognizant Lab)</li>
   <li>Technical Core Member at Mozilla Firefox Club VIT</li>
   <li>Editorial and Management Core Member at Ayuda NGO VIT</li>
