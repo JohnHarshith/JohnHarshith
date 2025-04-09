@@ -15,7 +15,7 @@
   <li>I am a Machine Learning and Deep Learning Enthusiast.</li>
   <li>Skilled at Web development and App development as well.</li>
   <li>Some other areas of interest are Natural Language Processing, Computer Vision and Image Processing.</li>
-  <li>I am currently pursuing my undergraduate degree in CSE (Specialization in Data Science) at VIT Vellore.</li>
+  <li>I am currently pursuing my MS in CS (Concentrated in AI) at UPenn.</li>
   <li>I enjoy learning new things and being an international student, I've been exposed to diverse groups of people.</li>
   <li>I am also interested in business and leading people, and in that way bringing out innovative and useful products.</li>
   <li>I believe in love in all its forms and also believe that the true purpose of life is happiness and peace.</li>
