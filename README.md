@@ -20,10 +20,3 @@
   <li>I am also interested in business and leading people, and in that way bringing out innovative and useful products.</li>
   <li>I believe in love in all its forms and also believe that the true purpose of life is happiness and peace.</li>
 </p>
-
-##
-<p align="center"> 
- <b>VISITOR COUNT</b><br>
-  <img src="https://profile-counter.glitch.me/JohnHarshith/count.svg"/>
-</p>
-<!-- John's GitHub Readme (Spreading love <3) -->
